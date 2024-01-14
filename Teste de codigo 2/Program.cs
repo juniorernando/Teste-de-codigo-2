@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Progeto121
+namespace ProjImposto
 
 {
     class Contract
